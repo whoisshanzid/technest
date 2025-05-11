@@ -26,3 +26,43 @@ technest/
 ├── assets/ # CSS, JS, images, etc.
 
 └── README.md # Project documentation
+
+## 🔧 Technologies Used
+
+- PHP
+- HTML5
+- CSS3
+- JavaScript
+- Hack (optional - for type checking and performance)
+
+## 🛠️ Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/whoisshanzid/technest.git
+   cd technest
+2. Open with XAMPP, MAMP, or any PHP server environment.
+3. Place the folder in the htdocs (or your server's root directory).
+4. Start Apache and navigate to:
+    ```bash
+    http://localhost/technest
+
+📌 TODO
+Add database integration
+
+Implement login and registration
+
+Create admin dashboard
+
+Optimize responsive design
+
+Improve UI/UX and animations
+
+📄 License
+This project is open-source. You may use, modify, or distribute it under the terms of the MIT License.
+
+✨ Author
+Shanzid Hasan
+GitHub: @whoisshanzid
