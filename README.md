@@ -49,20 +49,20 @@ To run this project locally:
     ```bash
     http://localhost/technest
 
-📌 TODO
-Add database integration
+## 📌 TODO
+1. Add database integration
 
-Implement login and registration
+2. Implement login and registration
 
-Create admin dashboard
+3. Create admin dashboard
 
-Optimize responsive design
+## Optimize responsive design
 
 Improve UI/UX and animations
 
-📄 License
+## 📄 License
 This project is open-source. You may use, modify, or distribute it under the terms of the MIT License.
 
-✨ Author
+## ✨ Author
 Shanzid Hasan
 GitHub: @whoisshanzid
