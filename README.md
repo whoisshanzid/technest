@@ -14,9 +14,15 @@ Technest is a dynamic web application built using PHP with an MVC (Model-View-Co
 ## 📁 Project Structure
 
 technest/
-   controllers/ # Handles user input and interactions
-    models/ # Interacts with the database and data logic
-    views/ # Contains UI templates and page structure
-    index.html # Landing page
-    assets/ # CSS, JS, images, etc.
-    README.md # Project documentation
+
+├── controllers/ # Handles user input and 
+
+├── models/ # Interacts with the database and data logic
+
+├── views/ # Contains UI templates and page structure
+
+├── index.html # Landing page
+
+├── assets/ # CSS, JS, images, etc.
+
+└── README.md # Project documentation
